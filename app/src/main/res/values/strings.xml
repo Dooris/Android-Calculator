@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Harjoitus4</string>
+
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="multiplication_sign">x</string>
+    <string name="division_sign">/</string>
+
+    <string name="calculate">Laske</string>
+    <string name="empty">Tyhjennä</string>
+    <string name="log">Näytä logi</string>
+
+    <string name="error">Tarkista laskusi</string>
+    <string name="title_activity_log">LogActivity</string>
+    <string name="log_title">Lasketut laskut:</string>
+</resources>
